@@ -10,10 +10,11 @@
 
 ### Hardware  
 - Arduino UNO  
-- ArduinoBlocks Shield
+- Shield Imagina V3 con Bluetooth
 - HC-SR04 = Sensor ultrasonido de distancia
 - TCRT5000 = Sensor infrarrojo de proximidad (3x)
 - Motores Arduino (2x)
+- Mando para control remoto  
 
 ### Montaje  
 ![Imagen 3dbot acabado](/Images/3dbot.jpg)  
