@@ -10,37 +10,31 @@
 
 ### Hardware  
 - Arduino UNO  
-- Arduino Shield Sensor v.5.0
+- ArduinoBlocks Shield
 - HC-SR04 = Sensor ultrasonido de distancia
-- TCRT5000 = Sensor infrarrojo de proximidad (2x)
-- LM393 = Sensor fotolumínico
-- LCD I2C = Pantalla lcd
-- Led blanco + R100Ω (2x)
-- Led rojo + R220Ω (2x)
-- Buzzer activo + R100Ω  
-- L298N = Controlador de motores
+- TCRT5000 = Sensor infrarrojo de proximidad (3x)
 - Motores Arduino (2x)
 
 ### Montaje  
 ![Imagen 3dbot acabado](/Images/3dbot.jpg)  
 Conexiones a pines Arduino UNO:  
-- A00 = Sensor ultrasonido-Echo (HC-SR04)  
-- A01 = Sensor ultrasonido-Trigger (HC-SR04)  
-- A02 = Sensor línea izquierda (TCRT5000)  
-- A03 = Fotosensor (LM393)  
+- A00 = Zumbador  
+- A01 = Sensor   
+- A02 = Sensor lumínico LDR  
+- A03 = Sensor de temperatura (NTC)  
 - A04 = I2C LCD (SDA)  
 - A05 = I2C LCD (SCL)  
-- D00 = (RX)
-- D01 = (TX)  
-- D02 = Led blanco derecho  
-- D03-= Led rojo derecho  
-- D04 = Sensor línea derecha   
-- D05-= ENB motor izquierdo  
-- D06-= ENA motor derecho  
-- D07 = IN1 motor derecho  
-- D08 = IN2 motor derecho  
-- D09-= IN3 motor izquierdo  
-- D10-= IN4 motor izquierdo  
-- D11-= Buzzer  
-- D12 = Led rojo izquierdo   
-- D13 = Led blanco izquierdo  
+- D00 = (RX) Bluetooth  
+- D01 = (TX) Bluetooth  
+- D02 = Sensor ultrasonidos / Pulsador  
+- D03-= Led verde / Emisor infrarrojo
+- D04 = Sensor ultrasonidos  
+- D05-= Led amarillo / Sensor de línea izquierdo  
+- D06-= Led rojo / Sensor de línea derecho  
+- D07 = Motor A  
+- D08 = Motor A  
+- D09-= Motor A  
+- D10-= Motor B  
+- D11-= Receptor infrarrojo  
+- D12 = Motor B   
+- D13 = Motor B  
