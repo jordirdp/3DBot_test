@@ -4,7 +4,8 @@
 👨🏻‍💻Práctica de **programación visual con bloques** en Arduino  
     
 ### Software  
-- Programado con [ArduinoBlocks](http://www.arduinoblocks.com/web/)  
+- Programado con [ArduinoBlocks](http://www.arduinoblocks.com/web/)
+- Puedes usar la programación de bloques directamente [aquí]([http://www.arduinoblocks.com/web/](http://www.arduinoblocks.com/web/project/1500467))  
 - Este código simplemente realiza un test del hardware instalado
 
 
