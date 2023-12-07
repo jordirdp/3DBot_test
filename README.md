@@ -19,7 +19,8 @@
 
 ### Montaje  
 ![Imagen 3dbot acabado](/Images/3dbot.jpg)  
-Conexiones a pines Arduino UNO:  
+  
+🔧 Conexiones a pines Arduino UNO:  
 - A00 = Zumbador  
 - A01 = Sensor   
 - A02 = Sensor lumínico LDR  
@@ -40,3 +41,7 @@ Conexiones a pines Arduino UNO:
 - D11-= Receptor infrarrojo  
 - D12 = Motor B   
 - D13 = Motor B  
+
+### Licencia  
+⚖️Todo el contenido distribuido bajo [licencia GPL-3.0](https://www.gnu.org/licenses/gpl-3.0), salvo indicación expresa.  
+Las referencias y librerías empleadas, estarán sujetas a sus propia licencia, y no se incluyen en este repositorio.  
