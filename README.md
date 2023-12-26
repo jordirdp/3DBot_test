@@ -2,6 +2,8 @@
 🔗Creado por [Jordi Rodriguez](https://github.com/jordirdp)  
 
 👨🏻‍💻Práctica de **programación visual con bloques** en Arduino  
+
+<img src="/Images/3dbot.jpg" width="300"/>   
     
 ### Software  
 - Programado con [ArduinoBlocks](http://www.arduinoblocks.com/web/)
@@ -20,9 +22,7 @@
 - Motores Arduino (2x)  
 - Mando para control remoto  
 
-### Montaje  
-![Imagen 3dbot acabado](/Images/3dbot.jpg)  
-  
+### Montaje    
 🔧 Conexiones a pines Arduino UNO:  
 - A00 = Zumbador  
 - A01 = Sensor   
