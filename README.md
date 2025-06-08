@@ -1,13 +1,12 @@
 # 3DBot_test
 🔗Creado por [Jordi Rodriguez](https://github.com/jordirdp)  
 
-👨🏻‍💻Práctica de **programación visual con bloques** en Arduino  
+👨🏻‍💻Práctica de **programación básica con bloques** en Steamakersblock sobre Arduino 
 
 <img src="/Images/3dbot.jpg" width="300"/>   
     
 ### Software  
 - Programado con [ArduinoBlocks](http://www.arduinoblocks.com/web/)
-- Puedes usar la programación de bloques directamente [aquí](http://www.arduinoblocks.com/web/project/1500467)  
 - Este código simplemente realiza un test del hardware instalado:
     - Buzzer reacciona a sensores de línea, iluminación ambiental y distancia de obstáculos
     - Movimiento delante/atrás/izquierda/derecha con el mando a distancia
