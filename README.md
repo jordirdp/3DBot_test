@@ -1,7 +1,7 @@
 # 3DBot_test
 🔗Creado por [Jordi Rodriguez](https://github.com/jordirdp)  
 
-👨🏻‍💻Práctica de **programación básica con bloques** en Steamakersblock sobre Arduino 
+👨🏻‍💻Práctica de **programación básica con bloques** en Steamakersblocks sobre Arduino 
 
 <img src="/Images/3dbot.jpg" width="300"/>   
     
